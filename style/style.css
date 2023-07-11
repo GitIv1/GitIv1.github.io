@@ -25,3 +25,18 @@ body{
     max-width: 100%;
     height: auto;
 }
+#fixMenu_text3{
+    color: black;
+    margin-left: 30px;
+}
+.row{
+    font-size: 20px;
+    background-color: #f4f4f4;
+    transform: translateX(20px);
+}
+#footer_photo1{
+    max-width: 100%;
+    height: auto;
+    width: 60px;
+    margin-left: 30px;
+}
